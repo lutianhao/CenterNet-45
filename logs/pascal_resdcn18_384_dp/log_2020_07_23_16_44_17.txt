@@ -1,0 +1,2 @@
+Namespace(arch='resdcn_18', ckpt_dir='./ckpt/pascal_resdcn18_384_dp', data_dir='./data', dataset='pascal', img_size=384, log_dir='./logs/pascal_resdcn18_384_dp', log_name='pascal_resdcn18_384_dp', num_workers=1, pretrain_dir='./ckpt/pascal_resdcn18_384_dp/checkpoint.t7', root_dir='./', test_flip=False, test_scales=[1.0], test_topk=100) [2020-07-23 16:44:17,365]
+Creating model... [2020-07-23 16:44:17,543]

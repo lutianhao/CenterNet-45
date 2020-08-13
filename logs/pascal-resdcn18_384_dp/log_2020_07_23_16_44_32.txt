@@ -1,0 +1,6 @@
+Namespace(arch='resdcn_18', batch_size=32, ckpt_dir='./ckpt/pascal-resdcn18_384_dp', data_dir='./data', dataset='pascal', dist=False, img_size=384, local_rank=0, log_dir='./logs/pascal-resdcn18_384_dp', log_interval=100, log_name='pascal-resdcn18_384_dp', lr=0.000125, lr_step=[45, 60], num_epochs=70, num_workers=10, pretrain_dir='./ckpt/pretrain/checkpoint.t7', pretrain_name='pretrain', root_dir='./', split_ratio=1.0, test_topk=100, val_interval=5) [2020-07-23 16:44:32,657]
+Setting up data... [2020-07-23 16:44:32,658]
+Creating model... [2020-07-23 16:44:33,374]
+Starting training... [2020-07-23 16:44:47,225]
+
+ Epoch: 1 [2020-07-23 16:44:47,225]

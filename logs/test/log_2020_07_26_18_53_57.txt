@@ -1,0 +1,2 @@
+Namespace(arch='large_hourglass', batch_size=48, ckpt_dir='./ckpt/test', data_dir='./data', dataset='coco', dist=False, img_size=512, local_rank=0, log_dir='./logs/test', log_interval=100, log_name='test', lr=0.0005, lr_step=[90, 120], num_epochs=140, num_workers=2, pretrain_dir='./ckpt/pretrain/checkpoint.t7', pretrain_name='pretrain', root_dir='./', split_ratio=1.0, test_topk=100, val_interval=5) [2020-07-26 18:53:57,577]
+Setting up data... [2020-07-26 18:53:57,580]

@@ -1,0 +1,2 @@
+python test.py --log_name pascal_resdcn18_384_dp --dataset pascal --arch resdcn_18 --img_size 384
+# python test.py --log_name pascal_resdcn18_384_dp --dataset pascal --arch resdcn_18 --img_size 384 --test_flip
